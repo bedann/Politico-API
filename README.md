@@ -1,4 +1,5 @@
 # Politico-API
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9e8482450e2c433db8a78376915840cf)](https://app.codacy.com/app/bedann/Politico-API?utm_source=github.com&utm_medium=referral&utm_content=bedann/Politico-API&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/bedann/Politico-API.svg?branch=develop)](https://travis-ci.org/bedann/Politico-API)
 [![Coverage Status](https://coveralls.io/repos/github/bedann/Politico-API/badge.svg?branch=develop)](https://coveralls.io/github/bedann/Politico-API?branch=develop)
 [![Maintainability](https://api.codeclimate.com/v1/badges/27c29affb516fca1c66b/maintainability)](https://codeclimate.com/github/bedann/Politico-API/maintainability)
